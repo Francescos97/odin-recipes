@@ -1,0 +1,24 @@
+h1{
+    background-color: #0ff;
+    text-align: center;
+}
+
+.link{
+    font-size: 25px;
+    text-align: center;
+}
+
+#lasagna{
+    background-color: #ff0000;
+    color: #ffcc00;
+}
+
+#bream{
+    color: #999966;
+    background-color: #ffff00;
+}
+
+#carbonara{
+    color: #ffcc00;
+    background-color: #800000;
+}
