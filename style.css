@@ -1,6 +1,14 @@
+body{
+    text-align: center;
+}
 h1{
     background-color: #0ff;
     text-align: center;
+}
+
+h2 {
+    
+
 }
 
 .link{
@@ -21,4 +29,43 @@ h1{
 #carbonara{
     color: #ffcc00;
     background-color: #800000;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.unordered-list{
+    color: #ff0000;
+    background-color: #999966;
+}
+
+.description.bream{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(204, 0, 204);
+}
+
+.description.lasagna{
+    background-color: #800000;
+}
+
+.description.carbonara{
+    background-color: #ffcc00;
+}
+
+p{
+    color: #000099;
+    background-color: #ffff00;
+}
+
+.steps.lasagna{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000099;
+}
+
+ol{
+    font-weight: 900;
+    color: #009900;
 }
